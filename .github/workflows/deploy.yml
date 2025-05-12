@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: mongodb+srv://admin:admin123@cluster0.srhx1iu.mongodb.net/
+      MONGODB_CLUSTER_ADDRESS: mongodb+srv://admin:admin123@cluster0.srhx1iu.mongodb.net
       MONGODB_USERNAME: admin
       MONGODB_PASSWORD: admin123
       PORT: 8080
